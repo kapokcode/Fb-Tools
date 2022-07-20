@@ -7,7 +7,7 @@ logo = """
 
  [*] ----------------------------------------------
  [*] Gitbub      : https://github.com/kapokcode
- [*] Facebook    : https://www.facebook.com/surachai.sonajit
+ [*] Facebook    : https://www.facebook.com/surachai.4452
  [*] ----------------------------------------------\n"""
 
 print(logo)
